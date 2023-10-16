@@ -1,6 +1,4 @@
-# 🌟 Project Title
-
-## Pokémon Valuable Items Analysis 🎮
+# Pokémon Valuable Items Analysis 🎮
 
 ### 📄 Project Description
 
